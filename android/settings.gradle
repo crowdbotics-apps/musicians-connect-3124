@@ -1,0 +1,3 @@
+rootProject.name = 'musicians_connect_3124'
+
+include ':app'
